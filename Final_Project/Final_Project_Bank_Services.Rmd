@@ -1,6 +1,6 @@
 ---
 title: "Untitled"
-author: "Raymond Fries"
+author: "Raymond Fries & Shariq Mian"
 date: "5/11/2022"
 output:
   pdf_document: default
